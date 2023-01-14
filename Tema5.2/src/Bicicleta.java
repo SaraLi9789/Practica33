@@ -1,6 +1,8 @@
 
 
 public class Bicicleta {
+	
+	//comentario de Arancha p33
 
 	protected int VelocidadActual;
 	protected int PlatoActual;
