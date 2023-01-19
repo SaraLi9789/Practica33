@@ -3,6 +3,7 @@
 public class Bicicleta {
 	
 	//comentario de Arancha p33
+	//comentario Sara p33
 
 	protected int VelocidadActual;
 	protected int PlatoActual;
